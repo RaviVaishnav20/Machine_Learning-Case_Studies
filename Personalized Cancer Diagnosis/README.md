@@ -96,7 +96,7 @@ Metric(s):
 ## Results
 ![](https://github.com/RaviVaishnav20/Machine_Learning-Case_Studies/blob/master/Personalized%20Cancer%20Diagnosis/models_summary.PNG)
 
-## Sample (XGBoost Confusion Matrix)
-![](https://github.com/RaviVaishnav20/Machine_Learning-Case_Studies/blob/master/Personalized%20Cancer%20Diagnosis/original_cm.png)
-![](https://github.com/RaviVaishnav20/Machine_Learning-Case_Studies/blob/master/Personalized%20Cancer%20Diagnosis/precision_cm.png)
-![](https://github.com/RaviVaishnav20/Machine_Learning-Case_Studies/blob/master/Personalized%20Cancer%20Diagnosis/recall_cm.png)
+## Sample (XGBoost)
+![Confusion Matrix](https://github.com/RaviVaishnav20/Machine_Learning-Case_Studies/blob/master/Personalized%20Cancer%20Diagnosis/original_cm.png)
+![Precision Matrix(Column sum should be 1)](https://github.com/RaviVaishnav20/Machine_Learning-Case_Studies/blob/master/Personalized%20Cancer%20Diagnosis/precision_cm.png)
+![Recall Matrix(Row sum should be 1)](https://github.com/RaviVaishnav20/Machine_Learning-Case_Studies/blob/master/Personalized%20Cancer%20Diagnosis/recall_cm.png)
