@@ -94,6 +94,8 @@ Metric(s):
 
 
 ## Results
+##### OHE: One Hot Encoding
+##### RC: Response Coding
 ![](https://github.com/RaviVaishnav20/Machine_Learning-Case_Studies/blob/master/Personalized%20Cancer%20Diagnosis/models_summary.PNG)
 
 ## Sample (XGBoost)
