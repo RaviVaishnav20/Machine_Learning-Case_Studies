@@ -71,6 +71,7 @@ Metric(s):
 ## Results
 - OHE: One Hot Encoding
 - RE: Response Coding
+<br>
 ![](https://github.com/RaviVaishnav20/Machine_Learning-Case_Studies/blob/master/Quora%20question%20Pair%20Similarity%20Problem/images/Summary_1.PNG)
 
 ### Applied Feature Engineering
